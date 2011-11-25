@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TestKayakNancy</id>
+    <version>1.0</version>
+    <title>TestKayakNancy</title>
+    <authors>Mathias Kluba</authors>
+    <owners>Mathias Kluba</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://grozeille.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample</description>
+    <releaseNotes>First version!</releaseNotes>
+    <copyright>Copyright 2011</copyright>
+    <tags>Nancy</tags>
+  </metadata>
+
+</package>
